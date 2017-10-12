@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Smooch Bot Example Apps",
   "engines": {
-    "node": "6.11.1"
+    "node": "6.11.4"
   },
   "author": "Andrew Lavers <alavers@system42.net> (http://smooch.io/)",
   "scripts": {
